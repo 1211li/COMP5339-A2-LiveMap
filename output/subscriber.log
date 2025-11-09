@@ -1,0 +1,2 @@
+/Users/lijianwei/Desktop/COMP5339 A2/src/mqtt_subscriber.py:26: DeprecationWarning: Callback API version 1 is deprecated, update to latest version
+  client = mqtt.Client()
